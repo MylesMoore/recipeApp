@@ -1,0 +1,224 @@
+[
+    {
+        "name": "Babe Walker",
+        "type": "drink",
+        "ing":[
+            {"name": "APPLE - GALA",        "grams": 0.500},
+            {"name": "COLLARD GREENS",      "grams": 0.090},
+            {"name": "GINGER ROOT",         "grams": 0.015},
+            {"name": "LETTUCE - ROMAINE",   "grams": 0.270},
+            {"name": "PINEAPPLE",           "grams": 0.125}
+        ] 
+    },
+    {
+        "name": "Celery Stick",
+        "type": "drink",
+        "ing":[
+            {"name": "APPLE-GALA",          "grams": 0.30},
+            {"name": "CARROTS",             "grams": 0.15},
+            {"name": "CELERY",              "grams": 0.30},
+            {"name": "KALE",                "grams": 0.08},
+            {"name": "LEMON",               "grams": 0.07},
+            {"name": "PINEAPPLE",           "grams": 0.10}
+        ] 
+    },
+    {
+        "name": "Crimson",
+        "type": "drink",
+        "ing":[
+            {"name": "APPLE - GALA",        "grams": 0.375},
+            {"name": "BEET",                "grams": 0.080},
+            {"name": "CANTALOUPE",          "grams": 0.190},
+            {"name": "CUCUMBER",            "grams": 0.250},
+            {"name": "GINGER ROOT",         "grams": 0.015},
+            {"name": "LEMON - peeled",      "grams": 0.040},
+            {"name": "LIME",                "grams": 0.050}
+        ] 
+    },
+    {
+        "name": "Gateway Juice",
+        "type": "drink",
+        "desc": "Sweet and citrus burst.",
+        "ing":[
+            {"name": "APPLE - GREEN",       "grams": 0.550},
+            {"name": "CARROT",              "grams": 0.430},
+            {"name": "LEMON",               "grams": 0.020}
+        ] 
+    },
+    {
+        "name": "Ginger Snap",
+        "type": "drink",
+        "ing":[
+            {"name": "APPLE-GALA",          "grams": 0.88},
+            {"name": "GINGER ROOT",         "grams": 0.02},
+            {"name": "LEMON-peeled",        "grams": 0.10}
+        ] 
+    },
+    {
+        "name": "Gerson Grapefruit",
+        "type": "drink",
+        "ing":[
+            {"name": "GRAPEFRUIT",          "grams": 0.33},
+            {"name": "ORANGE",              "grams": 0.67}
+        ] 
+    },
+    {
+        "name": "Gerson Nurse",
+        "type": "drink",
+        "ing":[
+            {"name": "APPLE-GALA",          "grams": 0.50},
+            {"name": "CARROT",              "grams": 0.50}
+        ] 
+    },
+    {
+        "name": "Glow Worm",
+        "type": "drink",
+        "ing":[
+            {"name": "APPLE-GREEN",        "grams": 0.35},
+            {"name": "BEETS",               "grams": 0.17},
+            {"name": "FENNEL",        "grams": 0.27},
+            {"name": "KALE",        "grams": 0.05},
+            {"name": "PEAR",        "grams": 0.26}
+        ] 
+    },
+    {
+        "name": "Green Light",
+        "type": "drink",
+        "ing":[
+            {"name": "APPLE-GALA",      "grams": 0.31},
+            {"name": "CABBAGE",         "grams": 0.11},
+            {"name": "CELERY",          "grams": 0.22},
+            {"name": "KALE",            "grams": 0.12},
+            {"name": "LEMON",           "grams": 0.04},
+            {"name": "LETTUCE",         "grams": 0.20}
+        ] 
+    },
+    {
+        "name": "Heartburn-b-gone",
+        "type": "drink",
+        "ing":[
+            {"name": "APPLE-GREEN",        "grams": 0.19},
+            {"name": "CARROT",        "grams": 0.32},
+            {"name": "CELERY",        "grams": 0.09},
+            {"name": "POTATO",        "grams": 0.40}
+        ] 
+    },
+    {
+        "name": "Johnny Cake Hill",
+        "type": "drink",
+        "ing":[
+            {"name": "BEET",                "grams": 0.10},
+            {"name": "CARROT",              "grams": 0.34},
+            {"name": "LEMON",               "grams": 0.03},
+            {"name": "ORANGE",              "grams": 0.28},
+            {"name": "PINEAPPLE",           "grams": 0.25}
+        ] 
+    },
+    {
+        "name": "Melonaid",
+        "type": "drink",
+        "ing":[
+            {"name": "LEMON",        "grams": 0.10},
+            {"name": "MINT",        "grams": 0.01},
+            {"name": "WATERMELON",        "grams": 0.89}
+        ] 
+    },
+    {
+        "name": "Pineapple Cantaloupe",
+        "type": "drink",
+        "ing":[
+            {"name": "CANTALOUPE",        "grams": 0.60},
+            {"name": "PINEAPPLE",        "grams": 0.40}
+        ] 
+    },
+    {
+        "name": "SeaBAG",
+        "type": "drink",
+        "ing":[
+            {"name": "APPLE - GALA",        "grams": 0.430},
+            {"name": "BEET",                "grams": 0.160},
+            {"name": "CARROT",              "grams": 0.330},
+            {"name": "GINGER ROOT",         "grams": 0.010},
+            {"name": "LIME",                "grams": 0.060},
+            {"name": "TUMARIC",             "grams": 0.010}
+        ] 
+    },
+    {
+        "name": "Real Thai",
+        "type": "drink",
+        "desc": "Sweet and citrus burst.",
+        "ing":[
+            {"name": "CARROT",                    "grams": 0.10},
+            {"name": "CELERY",                    "grams": 0.15},
+            {"name": "ORANGE",                    "grams": 0.13},
+            {"name": "BELL PEPPER - RED",         "grams": 0.15},
+            {"name": "SWEET POTATO",              "grams": 0.36},
+            {"name": "STRAWBERRY",                "grams": 0.10},
+            {"name": "LEMON",                     "grams": 0.01}
+        ] 
+    },
+    {
+        "name": "Honey Lemon Ginger",
+        "type": "shot",
+        "desc": "It's like good drugs, but better.",
+        "ing":[
+            {"name": "GINGER",              "grams": 0.170},
+            {"name": "HONEY",               "grams": 0.240},
+            {"name": "LEMON",               "grams": 0.590}
+        ] 
+    },
+    {
+        "name": "V7",
+        "type": "drink",
+        "desc": "",
+        "ing":[
+            {"name": "BEET",                "grams": 0.09},
+            {"name": "CABBAGE",             "grams": 0.11},
+            {"name": "CARROT",              "grams": 0.27},
+            {"name": "CELERY",              "grams": 0.13},
+            {"name": "CUCUMBER",            "grams": 0.22},
+            {"name": "LEMON-peeled",        "grams": 0.03},
+            {"name": "LETTUCE",             "grams": 0.15}
+        ] 
+    },
+    {
+        "name": "Wheatgrass",
+        "type": "shot",
+        "ing":[
+            {"name": "WHEATGRASS",          "grams": 1.000}
+        ] 
+    },
+    {
+        "name": "Anemia",
+        "type": "drink",
+        "ing":[
+            {"name": "BEET",                "grams": 0.10},
+            {"name": "CARROT",              "grams": 0.30},
+            {"name": "CELERY",              "grams": 0.15},
+            {"name": "LEMON",               "grams": 0.06},
+            {"name": "LETTUCE",             "grams": 0.29},
+            {"name": "SPINACH",             "grams": 0.05},
+            {"name": "WATERCRESS",          "grams": 0.05}
+        ] 
+    },
+    {
+        "name": "Minty Green",
+        "type": "drink",
+        "ing":[
+            {"name": "APPLE_GALA",       "grams": 0.31},
+            {"name": "KALE",              "grams": 0.09},
+            {"name": "LETTUCE_ROMAINE",   "grams": 0.18},
+            {"name": "CUCUMBER",          "grams": 0.36},
+            {"name": "LEMON",             "grams": 0.06},
+            {"name": "MINT",              "grams": 0.0}
+        ] 
+    },
+    {
+        "name": "BLANK",
+        "type": "drink",
+        "desc": "",
+        "ing":[
+            {"name": "INGREDIENT",        "grams": 0.0}
+        ] 
+    }
+]
